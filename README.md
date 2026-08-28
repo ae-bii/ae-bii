@@ -4,7 +4,7 @@ I'm a recently graduated Mathematics student from Columbia University.
 
 <p align="center">
   <a href="https://github.com/ae-bii">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ae-bii&theme=tokyonight&hide=jupyter%20notebook&layout=compact">
+    <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ae-bii&theme=catppuccin_mocha&hide=jupyter%20notebook&layout=compact">
   </a>
 </p>
 
